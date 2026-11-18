@@ -7,3 +7,5 @@ Mise en ligne : déposer les fichiers de ce dossier sur n'importe quel hébergem
 Fichiers : `index.html` (application + connexion), `_headers` (en-têtes de sécurité pour Cloudflare Pages ou Netlify), `robots.txt` (pas d'indexation), `404.html`.
 
 Packs enregistrés : dans le navigateur de chaque personne. Pour transmettre une composition : Exporter Excel ou Copier le résumé. « Se souvenir sur cet appareil » garde la clé dans le navigateur ; ne pas cocher sur un ordinateur partagé.
+
+`configurateur.html` : page « Ligno : configurateur, où nous en sommes » (démonstration du moteur et du générateur, en 3D, français et anglais), protégée par les mêmes trois mots de passe ; sa clé de contenu est scellée par la clé du site, de sorte que « Se souvenir sur cet appareil » vaut pour les deux pages. Adresse : la même que l'application, suivie de `configurateur.html`.
